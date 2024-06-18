@@ -35,7 +35,7 @@
 
 *** Conclusion for the Linear Regression Model 
 
-65% rate of prediction attain in random data values 
+65% rate of prediction attain for random data values from using numpy library.
 
 1.![image](https://github.com/gowrigg/codtech-task--2/assets/74725600/986a6d3a-5c96-4d78-9965-cadbf6ea51ef)
 2.![image](https://github.com/gowrigg/codtech-task--2/assets/74725600/0933efbd-18f4-4135-be00-e741f109a7bb)
